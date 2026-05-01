@@ -222,6 +222,3 @@ class librarywindow:
                 self.selected_title = ""
                 print(title)
                 
-#Aziz Hidri: aziz.hidri@stud.th-deg.de
-#Mouheb jounaidi:mouheb.jounaidi@stud.th-deg.de
-#Takoua Askri:takoua.askri@stud.th-deg.de
