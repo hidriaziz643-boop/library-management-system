@@ -4,18 +4,18 @@ A desktop library management application built with Python, using the **MVC arch
 
 ---
 
-## ✨ Features
+## Features
 
-- 📖 List, Add, Delete, and Search books
-- 🔄 Sort books by Title, Author, or Year
-- 🏷️ Update book status (Available, Lent out, Missing, Deleted)
-- 🖼️ Upload a book cover image and recognize the title using OCR (Tesseract)
-- 💾 Data is stored and persisted in a JSON file
-- ✅ Unit, Integration, and System tests included
+- List, Add, Delete, and Search books
+- Sort books by Title, Author, or Year
+- Update book status (Available, Lent out, Missing, Deleted)
+- Upload a book cover image and recognize the title using OCR (Tesseract)
+- Data is stored and persisted in a JSON file
+- Unit, Integration, and System tests included
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 | Tool | Purpose |
 |------|---------|
@@ -28,7 +28,7 @@ A desktop library management application built with Python, using the **MVC arch
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 library-management-system/
@@ -48,7 +48,7 @@ library-management-system/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 **1. Clone the repository:**
 ```bash
@@ -72,7 +72,7 @@ python main.py
 
 ---
 
-## 🧪 Run Tests
+## Run Tests
 
 ```bash
 # Unit tests
@@ -87,7 +87,7 @@ python -m unittest system.py
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 
 <img width="1367" height="751" alt="image" src="https://github.com/user-attachments/assets/7f28f975-70df-4a26-b097-e6ff37b39818" />
@@ -95,7 +95,7 @@ python -m unittest system.py
 ---
 
 
-## 🏫 University
+## University
 
 **Technische Hochschule Deggendorf (THD)**  
 Programmierung 2 – Semester 2
