@@ -1,0 +1,17 @@
+                                   Unittest Explication
+As it is already known, the Unitttest ensures that individual units of code
+function correctly and produce the expected results. So the Unittest is related to The model functions while the functions of the model are the main ones and need to be tested to catch bugs early and to make it clear : what each function is supposed to do .
+Talking about our Unittest of the Library model:
+The first step is to import Unittest bibliotheque in python that allows us to make tests,
+then we have created a class for testing inherited the testing Tools from the class "unittest.TestCase"
+Methods:
+SetUp : this methode prepares the correct and consistent environement for testing , it creates a mock json file named testlib.json , this will be our testing file then we will creat an instance of the class Library from our model
+we have chosen 3 of the functions in the model that are crucial and have a huge impact by Failure in failling the hole code.these seleced functions are : searchbook , check by all and update status
+def testsearch: we search for an already existant book in the file we use  self.assertIsNotNone(book) to see if the search book methode returns somthing then we check if the returned book have the same title , author name and year of the searched book using assertEqual
+def testcheckbyall:return true if the given book already exists so we use assertTrue to test it
+def testupdatedstatus:check if an updated status is really updated and in the content changed so we use assertEqual to see if after the calling of updatestatus and giving a valid status the status changes in the file 
+tearDown:after each test we have to delete the testingfile named testlib.json to ensure a frech startup and a clean environment for the next tests.
+
+
+#Aziz Hidri
+#aziz.hidri@stud.th-deg.de

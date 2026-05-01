@@ -1,0 +1,49 @@
+{
+    "The Pragmatic Programmer: Your Journey to Mastery": {
+        "Title": "The Pragmatic Programmer: Your Journey to Mastery",
+        "Author": "Andrew Hunt",
+        "Year": 1999,
+        "Status": "Available"
+    },
+    "You Don't Know JS: Up & Going": {
+        "Title": "You Don't Know JS: Up & Going",
+        "Author": "Kyle Simpson",
+        "Year": 2015,
+        "Status": "Available"
+    },
+    "Clean Code: A Handbook of Agile Software Craftsmanship": {
+        "Title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+        "Author": "Robert C. Martingrz",
+        "Year": 2008,
+        "Status": "Lent out"
+    },
+    "VLE BE GONE\nIN THE DARK": {
+        "Title": "VLE BE GONE\nIN THE DARK",
+        "Author": "c",
+        "Year": 5,
+        "Status": "Available"
+    },
+    "WILD": {
+        "Title": "WILD",
+        "Author": "k",
+        "Year": 8,
+        "Status": "Available"
+    },
+    "both have issues": {
+        "Title": "both have issues",
+        "Author": "a",
+        "Year": 7
+    },
+    "testbook": {
+        "Title": "testbook",
+        "Author": "testauthor",
+        "Year": 2025,
+        "Status": "Lent out"
+    },
+    "aziz": {
+        "Title": "aziz",
+        "Author": "hidri",
+        "Year": 2004,
+        "Status": "Lent out"
+    }
+}
