@@ -5,7 +5,7 @@ import os
 
 class library:
     def __init__(self):
-        self.filepath=os.path.join(os.path.dirname(__file__),"books.json") # if you want to run the code you have to put your own path
+        self.filepath=os.path.join(os.path.dirname(__file__),"books.json")
         self.content=self.readlib(self.filepath)
 
     #open a file
