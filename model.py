@@ -77,6 +77,3 @@ class library:
             if value["Title"]==t:
                 return value
             
-#Aziz Hidri: aziz.hidri@stud.th-deg.de
-#Mouheb jounaidi:mouheb.jounaidi@stud.th-deg.de
-#Takoua Askri:takoua.askri@stud.th-deg.de
